@@ -1,0 +1,86 @@
+body{background-color: blue;}
+@media only screen and (min-width: 768px) 
+{body{background-color: red;}}
+    header{
+    min-height: 100px;
+    background-color: olive;
+    }
+    section{
+    padding: 10px;
+    }
+    #inhoudelf{
+        width: 40%;
+        min-height: 200px;
+        background-color: purple;
+        display: inline-block;
+        }
+        #inhoudtwaalf{
+            width: 40%;
+            min-height: 200px;
+            background-color: purple;
+            display: inline-block;
+            }
+    #inhoudeen{
+    width: 10%;
+    height: 250px;
+    background-color: pink;
+    display: inline-block;
+    
+}
+    #inhoudtwee{
+    width: 10%;
+    height: 250px;
+    background-color: pink;
+    display: inline-block;
+    
+    }
+    #inhouddrie{
+        width: 10%;
+        height: 250px;
+        background-color: pink;
+        display: inline-block;
+        
+        }
+        #inhoudvier{
+            width: 10%;
+            height: 250px;
+            background-color: pink;
+            display: inline-block;
+            
+            }
+            #inhoudvijf{
+                width: 10%;
+                height: 250px;
+                background-color: pink;
+                display: inline-block;
+                
+                }
+                #inhoudzes{
+                    width: 10%;
+                    height: 250px;
+                    background-color: pink;
+                    display: inline-block;
+                    
+                    }
+                    #inhoudzeven{
+                        width: 10%;
+                        height: 250px;
+                        background-color: pink;
+                        display: inline-block;
+                       
+                        }
+                        #inhoudacht{
+                            width: 10%;
+                            height: 250px;
+                            background-color: pink;
+                            display: inline-block;
+                            
+                            }
+                            
+                            #inhoudnegen{
+                                width:10%;
+                                height: 250px;
+                                background-color: pink;
+                                display: inline-block;
+                                }
+    
